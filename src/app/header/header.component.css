@@ -1,0 +1,23 @@
+.header{
+  width: 100%;
+  background-color: #f3c2b1;
+  border-bottom: solid 1px black;
+}
+.menu{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+}
+.logo{
+   height: 10rem;
+}
+
+.menu li{
+  font-weight: 10;
+  padding: .5rem;
+  text-align: center;
+}
